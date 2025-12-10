@@ -11,6 +11,7 @@ function App() {
   return (
     <div>
       <h1>Welcome to the App!</h1>
+      <h1>This is just sample</h1>
 
       <SignedOut>
         <SignInButton mode="modal">
